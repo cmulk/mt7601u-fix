@@ -6,7 +6,7 @@ The credit for the fix goes to the post [here](https://github.com/kuba-moo/mt760
 
 And the credit for the idea to set up dkms for install goes to https://github.com/brektrou/rtl8821CU
 
-The original driver comes from the Linux 5.10 and the patch applied for the fix can be viewed at commit fef9d2d3253aea351fdbb1f8faff9a01d5ebdea9
+The original driver comes from the Linux 5.10 and the patch applied for the fix can be viewed at commit [fef9d](https://github.com/cmulk/mt7601u-fix/commit/fef9d2d3253aea351fdbb1f8faff9a01d5ebdea9)
 
 ## Install
 
