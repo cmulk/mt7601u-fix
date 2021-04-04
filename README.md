@@ -16,9 +16,12 @@ Disable the built-in kernel module
 ```
 echo "blacklist mt7601u" > /etc/modprobe.d/mt7601u.conf
 ```
+Reboot
+
 Install with dkms
 ```
 sudo ./dkms-install.sh
+modprobe mt7601u-fix
 ```
 
 Enable the new module to start on boot
